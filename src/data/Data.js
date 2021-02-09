@@ -12,16 +12,13 @@ export const SidebarData = [
     },
     {
         title: 'Messages',
-        path: '/',
+        path: '/messages',
         icon: <FaIcons.FaEnvelopeOpenText />,
         cName: 'nav-text',
     },
     {
         title: 'Logout',
-        path: '/',
         icon: <BiIcons.BiRun />,
-        cName: 'logout-nav-text',
+        cName: 'logout nav-text',
     },
-]
-
-
+];
